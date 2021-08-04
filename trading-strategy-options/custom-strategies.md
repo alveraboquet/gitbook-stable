@@ -1347,7 +1347,7 @@ To store variables in a more persistent way, use this object:
 
 By default `customStratStore` is undefined, you need to create it before storing anything in there.
 
-Data saved here generally stays available, and persists between bot restarts. However, there is no guarantee the data stays intact - if for the process gets killed it is possible the pair ledger gets reinitialized on next run. Gunbot native strategies are coded so that they or depend as little as possible on internal persistently stored data, working with exchange provided data as much as possible possible. Consider doing the same when coding custom strategies.
+Data saved here generally stays available, and persists between bot restarts. However, there is no guarantee the data stays intact - if for example the process gets killed it is possible the pair ledger gets reinitialized on next run. Gunbot native strategies are coded so that they depend as little as possible on internal persistently stored data, working with exchange provided data as much as possible possible. Consider doing the same when coding custom strategies.
 
 ## Visualize strategy targets
 

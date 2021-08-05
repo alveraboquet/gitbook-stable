@@ -28,21 +28,13 @@ Gunbot won't run when you have your tokens stored on an exchange.
 
 Create a new wallet and follow all the security advice given.
 
-![](https://user-images.githubusercontent.com/2372008/51180120-c25dda80-18c7-11e9-8a5c-da0f25c7dac2.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
-**Step 2: add custom token**
+\*\*\*\*
 
-Unlock your wallet and go to **Token balances** and click **Add Custom Token**.
+**Step 2: copy address**
 
-Enter the GUNTHY token contract address, as well as the token symbol \(GUNTHY\) and the number of decimals \(18\).
-
-![](https://user-images.githubusercontent.com/2372008/51180279-529c1f80-18c8-11e9-9372-a65482eeed4c.png)
-
-**Step 3: copy address**
-
-Copy the account address shown on top of the page. Use this address in Gunbot.
-
-![](https://user-images.githubusercontent.com/2372008/51180319-73fd0b80-18c8-11e9-8476-99e858267c8b.png)
+Go to the account details page to view and copy your wallet address.
 
 ## Metamask
 

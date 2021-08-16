@@ -82,7 +82,7 @@ _Replace_ `EXCHANGE` _with the name of your exchange._
       <td style="text-align:left"><code>BUY_EXCHANGE_BTC-ETH_0_rate</code>
       </td>
       <td style="text-align:left">
-        <p>Buy BTC using USDT for &quot;TV trading limit buy&quot;,</p>
+        <p>Buy ETH using BTC for &quot;TV trading limit buy&quot;,</p>
         <p>at a specified rate.</p>
         <p>Requires TV market orders to be disabled.</p>
       </td>

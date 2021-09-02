@@ -14,6 +14,8 @@ description: Instructions to install Gunbot on a macOS machine.
 {% hint style="success" %}
 System security settings may show that the `gunthy-macos` file is damaged or dangerous.  
 One way to disable the OS restrictions on the Gunbot folder is using this command in a terminal window: `xattr -d -r com.apple.quarantine <foldername>`
+
+To run on an M1 processor, create a Rosetta terminal \([see step 1 here](https://www.courier.com/blog/tips-and-tricks-to-setup-your-apple-m1-for-development)\) and use that terminal to launch Gunbot.
 {% endhint %}
 
 {% hint style="info" %}

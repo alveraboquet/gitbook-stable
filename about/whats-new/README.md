@@ -17,7 +17,7 @@ Using the config import tool you can easily upgrade to a clean new installation,
 
 **Steps to start with a clean installation:**
 
-* unpack v22 to a new folder and run,   
+* unpack v23 to a new folder and run,   
 * enter your Gunthy wallet address in the wizard, select "other" as exchange and save changes.   
 * then go to _Profile_ &gt; _Import settings_ and select the parts from your old config to import.
 {% endhint %}

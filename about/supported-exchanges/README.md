@@ -44,7 +44,6 @@ These exchanges have been supported in Gunbot for a long time, you can expect hi
 | **Huobi Global** | `huobi` | Regular | Regular & Margin |
 | **Kraken** | `kraken` | Regular | Regular |
 | **Poloniex** | `poloniex` | Regular | Regular & Margin |
-| **Nash** | `nashio` | Regular | Regular |
 
 ## Supported exchanges
 
